@@ -1,0 +1,14 @@
+package clase12;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ObraEdificioTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
