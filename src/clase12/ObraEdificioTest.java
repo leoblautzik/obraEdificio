@@ -8,7 +8,8 @@ public class ObraEdificioTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		ObraEdificio miCasita = new ObraEdificio(200);
+		assertFalse(miCasita.terminado());
 	}
 
 }
